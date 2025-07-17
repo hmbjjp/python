@@ -1,0 +1,28 @@
+Roadmap of DSA(Problem solving logic):
+
+* Analysis - time and space complexity, Recurance Relation Solving,
+                Apriori Analysis
+
+* Array and Strings - (ex. two pointer questions, kadan's algorithm)
+    multidimentional arrays, matrix computation
+
+practice questions on coding platforms ex. on Leetcode
+
+* Recursion
+Basic Questions -> Divide and Conquer Approach
+(Merge Sort, Quick Sort, Binary Search, fibonacci series, factorial)
+
+* Sorting Algorithms
+    comparision Sorting (count sort,radix, bucket)
+    non comparision sorting (selection , bubble, shell sort, heap sort)
+
+* Searching Algorithms
+    Linear Search
+    Binary Search (Important)- lot of Applications
+
+* Linked list 
+    reversal
+    cycle detection algorithm
+    fast pointer and slow pointer
+    sorting algorithms 
+    modify linkled list
