@@ -1,0 +1,21 @@
+* way to store the data -> 
+    retrieval, storing, processing, organisation of data
+* Array, Stack, Tree, Queue, Graph, Linkedlist and many more
+
+ex: List of records- insertion, deletion and searching
+searching is most frequent operation: array (binary search)
+insertion and deletion are more frequent : we should go for linkedlist 
+
+
+* undo - ctrl + Z (LIFO) - last in first out 
+    this is an application of stack data structure
+
+* spotify to listen music - uses concept of Linkedlist
+    as there is linking of nodes for previous and next option for playing music
+
+
+* Uber or Ola (car booking apps) - Graph data structure is used
+
+* E commerce website: category and then sub category and then specific products
+    this is example of tree data structure
+
